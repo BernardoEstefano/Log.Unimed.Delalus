@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Log.Unimed.Controllers
+namespace Log.Unimed.Delalus.Controllers
 {
     public class LogController : Controller
     {

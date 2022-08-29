@@ -1,5 +1,4 @@
-﻿using Log.Unimed.Controllers;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace Log.Application.Referencias
 {

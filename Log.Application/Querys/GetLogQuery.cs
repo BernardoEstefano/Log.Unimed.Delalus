@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using System.ComponentModel.DataAnnotations;
 
-namespace Log.Unimed.Controllers
+namespace Log.Unimed.Delalus.Controllers
 {
     public class GetLogQuery : IRequest<bool>
     {

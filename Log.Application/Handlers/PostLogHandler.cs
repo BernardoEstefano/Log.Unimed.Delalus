@@ -1,8 +1,9 @@
 ﻿using Log.Application.Referencias;
-using Log.Unimed.Controllers;
+
+using Log.Unimed.Delalus.Controllers;
 using MediatR;
 
-namespace Log.Application.Handlers
+namespace Log.Application.Delalus.Handlers
 {
     public class PostLogHandler : IRequestHandler<PostLogQuery, bool>
     {
